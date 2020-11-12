@@ -14,6 +14,5 @@ author_profile: true
 
 * 1 Poster presented at machine learning track of European Congress of Radiology (ECR) 2020 on building bleed classification algorithms robust to CT acquisition artifacts.
 
-{% for post in site.posterss reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+
