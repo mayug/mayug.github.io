@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+* **“Large Scale Topological Analysis of Cranial Bleeds”** paper and open source dataset to be submitted to the Lancet (as of Oct 2020).

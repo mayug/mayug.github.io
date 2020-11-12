@@ -15,7 +15,7 @@ Fourier Ptychography is a recently proposed imaging technique that yields high-r
 
 
 ## Project website:
-http://www.ee.iitm.ac.in/comp_photolab/project-fpm.html
+[http://www.ee.iitm.ac.in/comp_photolab/project-fpm.html](http://www.ee.iitm.ac.in/comp_photolab/project-fpm.html)
 
 
 ## [Download paper here](http://mayug.github.io/files/deep_fpm_paper.pdf)
