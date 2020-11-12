@@ -71,8 +71,8 @@ analytics:
 # Site Author
 author:
   name             : "Mayug Maniparambil"
-  avatar           : "profile.png"
-  bio              : "mayugmaniparambil@gmail.com\n Qure.ai \n IIT Madras"
+  avatar           : "website_photo_mayug.jpg"
+  bio              : "mayugmaniparambil@gmail.com\n Qure.ai | IIT Madras"
   location         : # "Location"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=tCHi_7IAAAAJ&hl=en"
@@ -84,7 +84,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/mayug"
+  github           : "mayug"
   google_plus      :
   keybase          :
   instagram        :
