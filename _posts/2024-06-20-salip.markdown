@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero-shot Medical Image Segmentation"
+date:   2024-06-20 00:00:00 +00:00
+image: /images/salip.png
+categories: research
+author: "Mayug Maniparambil"
+authors: "Sidra Aleem, Fangyijie Wang, <strong>Mayug Maniparambil</strong>, Eric Arazo, Julia Dietlmeier, Kathleen Curran, Noel E. O'Connor, Suzanne Little"
+venue: "CVPR Workshops (Oral)"
+arxiv: https://arxiv.org/abs/2404.06362
+code: https://github.com/aleemsidra/SaLIP
+highlight: true
+---
+
+We introduce SaLIP, a training-free framework that combines SAM and CLIP for zero-shot medical image segmentation. Our method uses CLIP to select relevant regions and SAM to segment them accurately, achieving significant improvements over baseline SAM across multiple medical imaging tasks.

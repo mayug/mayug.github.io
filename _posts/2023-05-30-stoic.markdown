@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "The STOIC2021 COVID-19 AI Challenge: Applying Reusable Training Pipelines to Medical Imaging"
+date:   2024-04-15 00:00:00 +00:00
+image: /images/stoic2021.png
+categories: research
+author: "Mayug Maniparambil"
+authors: "Dominik Müller, <strong>Mayug Maniparambil</strong>, et al."
+venue: "Medical Image Analysis"
+arxiv: "https://arxiv.org/abs/2306.10484"
+doi: https://doi.org/10.1016/j.media.2024.102894
+---
+This study presents the outcomes of the STOIC2021 challenge, highlighting the effectiveness of reusable training pipelines in medical imaging tasks related to COVID-19 diagnosis.

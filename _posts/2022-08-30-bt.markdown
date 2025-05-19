@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "BaseTransformers: Attention over Base Data-Points for One Shot Learning"
+date:   2022-10-05 00:00:00 +00:00
+image: /images/basetransformers.png
+categories: research
+author: "Mayug Maniparambil"
+authors: "<strong>Mayug Maniparambil</strong>, Kevin McGuinness, Noel E. O'Connor"
+venue: "BMVC"
+arxiv: https://arxiv.org/abs/2210.02476
+---
+We propose BaseTransformers, a novel approach that leverages attention mechanisms over base data-points to enhance one-shot learning performance. Our method achieves state-of-the-art results on multiple benchmarks.

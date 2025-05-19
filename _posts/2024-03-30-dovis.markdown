@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Do Vision and Language Encoders Represent the World Similarly?"
+date:   2024-01-12 00:00:00 +00:00
+image: /images/vision_language.png
+categories: research
+author: "Mayug Maniparambil"
+authors: "<strong>Mayug Maniparambil</strong>, Raiymbek Akshulakov, Yasser Abdelaziz Dahou Djilali, Sanath Narayan, Mohamed El Amine Seddik, Karttikeya Mangalam, Noel E. O'Connor"
+venue: "CVPR"
+arxiv: https://arxiv.org/abs/2401.05224
+code: "https://github.com/mayug/0-shot-llm-vision"
+highlight: true
+
+---
+This paper investigates whether independently trained vision and language encoders learn similar representations of the world. Utilizing Centered Kernel Alignment (CKA), the study finds that unaligned vision and language encoders exhibit semantic similarities in their representation spaces. The authors propose two methods—a Fast Quadratic Assignment Problem (QAP) optimization and a novel localized CKA metric-based matching—to align these representations without additional training. The effectiveness of these methods is demonstrated on downstream tasks such as cross-lingual and cross-domain caption matching and image classification.

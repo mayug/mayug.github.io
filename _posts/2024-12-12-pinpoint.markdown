@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Pinpoint Counterfactuals: Reducing Social Bias in Foundation Models via Localized Counterfactual Generation"
+date:   2024-12-12 00:00:00 +00:00
+image: /images/pinpoint.png
+categories: research
+author: "Mayug Maniparambil"
+authors: "Kirill Sirotkin, Marcos Escudero-Viñolo, Pablo Carballeira, <strong>Mayug Maniparambil</strong>, Catarina Barata, Noel E. O'Connor"
+venue: "arXiv"
+arxiv: https://arxiv.org/abs/2412.09160
+---
+We introduce a localized counterfactual generation method that addresses societal biases in foundation models by constraining modifications to specific attribute-relevant regions through automated masking and guided inpainting. Applied to the Conceptual Captions dataset for creating gender counterfactuals, our approach achieves higher visual and semantic fidelity compared to existing methods, while preserving model performance on non-human-centric tasks. Fine-tuning models with our counterfactuals demonstrates measurable bias reduction across multiple metrics, establishing a framework for creating balanced datasets that enable both accurate bias profiling and effective mitigation.

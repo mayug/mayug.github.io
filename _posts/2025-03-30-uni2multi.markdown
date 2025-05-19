@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Harnessing Frozen Unimodal Encoders for Flexible Multimodal Alignment"
+date:   2025-03-23 00:00:00 +00:00
+image: /images/freeze-align.png
+categories: research
+author: "Mayug Maniparambil"
+authors: "<strong>Mayug Maniparambil</strong>, Raiymbek Akshulakov, Yasser Abdelaziz Dahou Djilali, Sanath Narayan, Ankit Singh, Noel E. O'Connor"
+venue: "CVPR (accepted)"
+arxiv: https://arxiv.org/abs/2409.19425
+code: https://github.com/mayug/freeze-align
+highlight: true
+---
+We propose a novel framework for aligning vision and language modalities using frozen unimodal encoders. Our analysis reveals that semantically aligned encoder pairs can be effectively connected through lightweight projection layers. By training simple MLP projectors within this framework, we achieve 76% accuracy on ImageNet, while reducing data requirements by 20× and compute by 65× compared to traditional multimodal alignment approaches. This method significantly improves the accessibility of multimodal model development and enables flexible adaptation to tasks such as zero-shot segmentation, multilingual retrieval, and classification—by leveraging powerful, pretrained unimodal vision and language models.

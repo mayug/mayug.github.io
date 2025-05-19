@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Enhancing CLIP with GPT-4: Harnessing Visual Descriptions as Prompts"
+date:   2023-07-20 00:00:00 +00:00
+image: /images/vdt_adapter.png
+categories: research
+author: "Mayug Maniparambil"
+authors: "<strong>Mayug Maniparambil</strong>, Chris Vorster, Derek Molloy, Noel Murphy, Kevin McGuinness, Noel E. O'Connor"
+venue: "ICCV"
+arxiv: https://arxiv.org/abs/2307.11661
+code: https://github.com/mayug/VDT-Adapter
+highlight: true
+---
+We demonstrate how GPT-4 can generate visually descriptive prompts to enhance CLIP's zero-shot performance on fine-grained datasets. Our approach significantly improves accuracy and introduces a novel few-shot adapter that outperforms existing methods like CoCoOP.

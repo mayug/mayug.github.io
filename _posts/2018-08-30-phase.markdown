@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Phase Retrieval for Fourier Ptychography under Varying Amount of Measurements"
+date:   2018-05-09 00:00:00 +00:00
+image: /images/phase.png
+categories: research
+author: "Mayug Maniparambil"
+authors: "Lokesh Boominathan, <strong>Mayug Maniparambil</strong>, Honey Gupta, Rahul Baburajan, Kaushik Mitra"
+venue: "BMVC"
+arxiv: https://arxiv.org/abs/1805.03593
+---
+We explore phase retrieval techniques for Fourier Ptychography, focusing on scenarios with varying measurement quantities. Our findings contribute to improved imaging quality in computational photography.
